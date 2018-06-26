@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/sandeepmistry/arduino-BLEPeripheral.svg?branch=master)](https://travis-ci.org/sandeepmistry/arduino-BLEPeripheral) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sandeepmistry/arduino-BLEPeripheral?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+A trimmed-down version of sandeepmistry's arduino-BLEPeripheral library.
 
 An [Arduino](http://arduino.cc) library for creating custom BLE peripherals with [Nordic Semiconductor](http://www.nordicsemi.com)'s [nRF8001](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF8001) or [nR51822](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822).
 
